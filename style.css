@@ -9,6 +9,8 @@
             color: black;
 
 }
+@media and{max-width: 800px;
+}
 
     h1{
         color: green;
